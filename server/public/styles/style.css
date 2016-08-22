@@ -1,0 +1,39 @@
+.task_data{
+ display: inline-block;
+ width: 150px;
+  border: 1px solid #222E50;
+  text-align: center;
+}
+/*
+.update_button{
+  padding-left:100px;
+}*/
+
+#task-form{
+  background-color: #E9D985;
+  border: 10px solid #222E50;
+  text-align: center;
+  margin-bottom: 40px;
+}
+
+body{
+  background-color: #BCD8C1;
+  width: 1050px;
+  font-family: Courier;
+}
+
+.taskSubForm{
+  background-color: #007991;
+}
+
+.button{
+  display: inline-block;
+  padding: 0px 0px 0px 10px;
+}
+.task_list{
+  margin: 0px 150px 0px 150px;
+}
+.task_label{
+  background-color: #E9D985;
+  text-align: center;
+}
